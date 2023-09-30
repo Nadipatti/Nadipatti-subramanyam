@@ -1,0 +1,2 @@
+# Nadipatti-subramanyam
+Earthquake prediction
